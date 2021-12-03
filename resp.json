@@ -1,0 +1,16 @@
+{
+  "Balance": {
+    "errorCode": 0,
+    "errorMessage": "No Error",
+    "data": {
+      "balance": 1000
+    }
+  },
+  "Bet": {
+    "errorCode": 0,
+    "errorMessage": "No Error",
+    "data": {
+      "bet": 1000
+    }
+  }
+}
